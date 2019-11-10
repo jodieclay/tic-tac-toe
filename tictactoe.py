@@ -3,6 +3,8 @@
 import random
 import sys
 
+
+print("hello")
 board=[i for i in range(0,9)]
 player, computer = '',''
 
